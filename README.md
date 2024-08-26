@@ -1,8 +1,8 @@
 
 ## Grupo SO-024
-Afonso Santos - fc59808
-Madalena Machado - fc59858
-Liliana Valente - fc59846
+- Afonso Santos - fc59808
+- Madalena Machado - fc59858
+- Liliana Valente - fc59846
 
 ## Projeto:
 O objetivo geral do projeto será o desenvolvimento de uma aplicação em C, chamada hOSpital, para simular a
